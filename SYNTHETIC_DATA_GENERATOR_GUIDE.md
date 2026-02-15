@@ -315,7 +315,7 @@ SYNTHETIC_DATA_CONFIG = {
 
 ---
 
-## 📝 Data Dictionary
+##  Data Dictionary
 
 | File | Rows | Purpose |
 |------|------|---------|
