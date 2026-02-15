@@ -330,4 +330,4 @@ SYNTHETIC_DATA_CONFIG = {
 
 **Generated**: February 2026
 **Format**: CSV (Excel compatible)
-**Total Size**: ~10-15MB
+**Total Size**: ~10-15M
