@@ -37,11 +37,6 @@ data/raw/*.csv
 data/processed/*.csv
 data/external/*.csv
 
-# Reports & Figures
-reports/figures/*.png
-reports/figures/*.jpg
-reports/*.pdf
-
 # IDE
 .vscode/
 .idea/
@@ -66,6 +61,3 @@ logs/
 .pytest_cache/
 .coverage
 
-# Power BI
-*.pbix.bak
-~*.pbix
