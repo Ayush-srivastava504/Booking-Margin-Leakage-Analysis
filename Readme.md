@@ -398,7 +398,7 @@ For questions or issues:
 1. Check [docs/BUSINESS_DECISIONS.md](docs/BUSINESS_DECISIONS.md) for common questions
 2. Review [docs/KPIS.md](docs/KPIS.md) for metric definitions
 3. Open an issue on GitHub
-4. Contact: your-email@company.com
+4. Contact: ayushwww4@gmail.com
 
 ---
 
